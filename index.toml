@@ -1027,6 +1027,11 @@ hash = "f7e6f638078c6717ea9e2e76bac01d7680fb48634bf04bf7f1e9d430cd27e626"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "bf3ab3065a3d3cbf04b5632a6088c9db9381c54c2149c8713748dde1b5859472"
+metafile = true
+
+[[files]]
 file = "mods/portal-gun.pw.toml"
 hash = "0b2d90a415533b51a4ca6807ba537993dcca774a83185c6f7f998c4d5d859459"
 metafile = true
@@ -1212,6 +1217,11 @@ hash = "260f0330b42aa9e33b8fb8165d06f64d29540b42f121dc9746c6ebcb7ef55158"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "7af0b8a8e634eab7ecd9e6401ce3c71d6ec1c2c5dae078dee5a526898f88c72c"
+metafile = true
+
+[[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "4379e8df5433332fee2b3c351eaf9d281581cdd3ff4340a4a466e497de8eb41b"
 metafile = true
@@ -1327,8 +1337,3 @@ hash = "b1ca83017648cf4fe51b11cdb8ced694c8e714078bfd5ad59b457701626188b4"
 [[files]]
 file = "scripts/recipes.zs"
 hash = "2520978cae316a4b5587670bbf4393a70536854f5258897187eb4236aa98e715"
-
-[[files]]
-file = "twilightforest.pw.toml"
-hash = "fcce284b150ffa2e98e94d177a492baf484d8fdc0a8e3f9fcc2ba857f1a54523"
-metafile = true
