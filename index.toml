@@ -94,7 +94,7 @@ hash = "567c291753e88b78caa4bf50c589c026ffadf35efa61d8eb641dd49412c78185"
 
 [[files]]
 file = "config/quark.cfg"
-hash = "6d956313e506152bde35b43920b5e92a22d9932aaaa9c074a84d6d96b47a23ef"
+hash = "55a4bce5fa3eee50955b46294a168c59ec9131fe0ebe242c3c03105a33c9f0ee"
 
 [[files]]
 file = "config/reccomplex.cfg"
@@ -454,11 +454,6 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "965be564aa6d4f69905817140576e58a42a69b2e6ffc881c800b8d8f790c77bb"
-metafile = true
-
-[[files]]
-file = "mods/animalium.pw.toml"
-hash = "d3ad699f806c1471f624ef65519cba0725d9917b82c5b6c4bdeb08d502bd4714"
 metafile = true
 
 [[files]]
@@ -1167,26 +1162,6 @@ hash = "3fc16d41893803e4afd4ddb2b981ed360081cea152a21f9783aac3bae182f6fc"
 metafile = true
 
 [[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "ba20eb5e1ea5e39e226a71f82801000b03271e5a7f0aff6d7747456b80c93b2d"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems-extra-parts.pw.toml"
-hash = "6977c9087ebdcc2180c5a98e2c62ede43c80e037937b26e8da710f9858319984"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems-tic-support.pw.toml"
-hash = "55cb052c184a514cc6a13aa0f4fed6e0c4779689cf53d9b83908f08ad4e54ddc"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems.pw.toml"
-hash = "4ab138f7c54a88f762a7ddf8b7d397a05477d708b8f043821d9faf0a684260fa"
-metafile = true
-
-[[files]]
 file = "mods/simple-rpg.pw.toml"
 hash = "7a27f40a9d81021a6f694ead36f25e80e64c8fcd6ebf0d7dfd6058176a5a911c"
 metafile = true
@@ -1336,4 +1311,4 @@ hash = "b1ca83017648cf4fe51b11cdb8ced694c8e714078bfd5ad59b457701626188b4"
 
 [[files]]
 file = "scripts/recipes.zs"
-hash = "2520978cae316a4b5587670bbf4393a70536854f5258897187eb4236aa98e715"
+hash = "3c641f8c67d7748e6004340d8c912a83e22820f0a9b68c36b8ccfddc843067e6"

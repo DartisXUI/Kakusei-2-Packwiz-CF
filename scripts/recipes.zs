@@ -3,8 +3,7 @@
 //#Remove
 //Don't touch me!
 //#Add
-recipes.addShapeless(<lucraftcore:ingot_titanium> * 2, [<sgextraparts:ingot:9>,<sgextraparts:ingot:9>]);
-recipes.addShapeless(<sgextraparts:ingot:9> * 2, [<libvulpes:productingot:7>,<libvulpes:productingot:7>]);
+recipes.addShapeless(<lucraftcore:ingot_titanium> * 2, [<libvulpes:productingot:7>,<libvulpes:productingot:7>]);
 recipes.addShapeless(<libvulpes:productingot:7> * 2, [<lucraftcore:ingot_titanium>,<lucraftcore:ingot_titanium>]);
 recipes.addShapeless(<prefab:block_compressed_dirt> * 2, [<extrautils2:compresseddirt>,<extrautils2:compresseddirt>]);
 recipes.addShapeless(<extrautils2:compresseddirt> * 2, [<prefab:block_compressed_dirt>,<prefab:block_compressed_dirt>]);
