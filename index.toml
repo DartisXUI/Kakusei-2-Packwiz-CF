@@ -86,7 +86,7 @@ hash = "0476ebf682f046df1fee071557b912428b9d4df05c7f71322f9ffba0fcbb8c23"
 
 [[files]]
 file = "config/natura.cfg"
-hash = "0284a131fd9b28555ae0e2c90ba91c336a501199a864705f641f9c64276e9d13"
+hash = "208dd0e72fc9edbacb18a82d5baba1e21c474d7b8f8a1de6090bd0b3cf2d5776"
 
 [[files]]
 file = "config/orecore.cfg"
