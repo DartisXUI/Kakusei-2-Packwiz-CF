@@ -682,6 +682,11 @@ hash = "a9d943add3e0c6a9d63e94732264da610c91b3138aedc07550a4fd63d4e85a53"
 metafile = true
 
 [[files]]
+file = "mods/custom-npcs.pw.toml"
+hash = "5dc674f18395c521d35560bed95784acfa4ec29869d1aeba0a74db67faf72ea8"
+metafile = true
+
+[[files]]
 file = "mods/cyclic.pw.toml"
 hash = "a1026af48a53ef8abe2446a994d6f13db4e8cc73097dd508781ac2d99771ed19"
 metafile = true
@@ -1184,6 +1189,11 @@ metafile = true
 [[files]]
 file = "mods/swingthroughgrass.pw.toml"
 hash = "3f01c5fada47f907a911b22c947e3783ba1327a756951217b362e57358c7a4f0"
+metafile = true
+
+[[files]]
+file = "mods/tellme.pw.toml"
+hash = "4021df31f9c7d3c3af31695df69eb2d8ae18f735cd9b0fd0631662fa9e6d8877"
 metafile = true
 
 [[files]]
