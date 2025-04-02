@@ -1318,7 +1318,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "dad85fbfb4d6ccf0e845371741879524abdae43d4820fbcf7a20a4242b83ce64"
+hash = "c835e8b6a5b0022b0c70745cb041e1632f1eb405dccc0e37bc8f1a6b81891a82"
 
 [[files]]
 file = "packwizignore.txt"
