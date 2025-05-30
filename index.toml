@@ -952,6 +952,11 @@ hash = "99d1fe22e1ddc58a0a43f64a18a4e06298ef76c9f7608f57a7f0cee0d64fecaa"
 metafile = true
 
 [[files]]
+file = "mods/mrcrayfish-furniture-mod.pw.toml"
+hash = "a4c498bcfebfd15bb9fe3634cec04eab7da19f93080b295de00221f3ca986cd7"
+metafile = true
+
+[[files]]
 file = "mods/mrtjpcore.pw.toml"
 hash = "ae849763d546d4fea042e339ec74f8b0373472f76aeda340cd6bced6ac7754bd"
 metafile = true
